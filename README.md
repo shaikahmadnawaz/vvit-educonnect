@@ -1,6 +1,5 @@
 # VVIT EduConnect
 
-<!-- ![VVIT EduConnect Logo](/path/to/logo.png) -->
 
 
 ## Description
